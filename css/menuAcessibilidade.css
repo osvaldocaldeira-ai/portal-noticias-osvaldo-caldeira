@@ -40,3 +40,8 @@ box-sizing: border-box;
     background-color: black;
     color: white;
 }
+
+.contraste th, .contraste td{
+ border: 1px solid yellow;   
+
+}
